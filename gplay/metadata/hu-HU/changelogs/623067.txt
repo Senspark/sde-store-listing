@@ -1,0 +1,7 @@
+[1.3.1] május, 2016
+- Szerelés ad folyni szerint Admob politika.
+- Hozzáadása hirdetési helyet banner mint Admob ajánlást.
+- Hozzáadása push értesítést.
+- Hozzáadása crashlytics.
+- Integráló új könyvtárat.
+- Cseréld app rater merítve új grafikával a dialógus

@@ -1,0 +1,7 @@
+[1.3.1] Mai 2016
+- Befestigung ad fließen nach Admob Politik.
+- Hinzufügen von Werbeflächen für Banner als Admob Empfehlung.
+- Hinzufügen von Push-Benachrichtigung.
+- Hinzufügen von crashlytics.
+- Die Integration von neuen Bibliothek.
+- App Rater-Upgrade durch neue Grafiken für den Dialog Zeichnung

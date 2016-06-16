@@ -1,0 +1,7 @@
+[1.3.1] mai 2016
+- Feste annonse sirkulasjonen i henhold til retningslinjene for AdMob.
+- Legge annonseplass for banner som Admob anbefaling.
+- Legge push varsling.
+- Legge crashlytics.
+- Integrering nytt bibliotek.
+- Oppgradering app rater ved å tegne ny grafikk for dialogen

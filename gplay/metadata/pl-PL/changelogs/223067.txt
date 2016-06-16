@@ -1,0 +1,7 @@
+[1.3.1] maja 2016
+- Przepływ ad Mocowanie zgodnie z polityką AdMob.
+- Dodawanie przestrzeń reklamową na banner AdMob rekomendacji.
+- Dodawanie powiadomienia push.
+- Dodawanie crashlytics.
+- Integracja nowych bibliotekę.
+- Uaktualnienie aplikacji Rater rysując nowe grafiki dla okna

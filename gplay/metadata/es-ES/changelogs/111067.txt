@@ -1,0 +1,7 @@
+[1.3.1] mayo de 2016
+- Fijación de anuncios flujo de acuerdo con la política de AdMob.
+- Adición de espacio publicitario para la bandera a título de recomendación de AdMob.
+- Adición de notificación de inserción.
+- Adición de crashlytics.
+- La integración de la nueva biblioteca.
+- Actualizar evaluador aplicación mediante la elaboración de nuevos gráficos para el diálogo

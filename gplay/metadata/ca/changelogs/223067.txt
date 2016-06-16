@@ -1,0 +1,7 @@
+[1.3.1] maig de 2016
+- Fixació d'anuncis flux d'acord amb la política de AdMob.
+- Addició d'espai publicitari per a la bandera a títol de recomanació d'AdMob.
+- Addició de notificació d'inserció.
+- Addició de crashlytics.
+- La integració de la nova biblioteca.
+- Actualitzar avaluador aplicació mitjançant l'elaboració de nous gràfics per al diàleg

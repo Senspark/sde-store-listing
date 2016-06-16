@@ -1,0 +1,7 @@
+2016 [1.3.1] May
+- Fixing reklam Admob siyasətinə uyğun olaraq axır.
+- Admob tövsiyə kimi banner üçün reklam durub.
+- Push bildiriş durub.
+- Crashlytics durub.
+- Yeni kitabxana inteqrasiyası.
+- Informasiya üçün yeni qrafik çəkərək app Rater yükseltin

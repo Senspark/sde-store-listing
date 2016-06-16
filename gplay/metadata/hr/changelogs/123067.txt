@@ -1,0 +1,7 @@
+[1.3.1] Svibanj, 2016
+- Toka Učvršćivanje oglas u skladu s pravilima za AdMob.
+- Dodavanje oglasni prostor za banner kao AdMob preporuke.
+- Dodavanje automatsku obavijest.
+- Dodavanje crashlytics.
+- Integriranje novu biblioteku.
+- Nadogradnja aplikacije ocjenjivaÄŤ crtanjem nove grafike za dijalog

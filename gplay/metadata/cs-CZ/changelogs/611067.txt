@@ -1,0 +1,7 @@
+[1.3.1] květen 2016
+- Stanovení ad proudit v souladu s politikou Admob.
+- Přidání reklamní prostor pro nápis jako doporučení Admob.
+- Přidání push notifikaci.
+- Přidávání crashlytics.
+- Integrace nových knihovnu.
+- Upgrade app Rater tím, že kreslí novou grafiku pro dialog

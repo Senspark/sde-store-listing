@@ -1,0 +1,7 @@
+[1.3.1] maggio 2016
+- Fissaggio ad flusso in base alle norme di AdMob.
+- L'aggiunta di spazi pubblicitari per la bandiera come raccomandazione AdMob.
+- Aggiunta di notifica push.
+- Aggiunta crashlytics.
+- Integrazione di nuova biblioteca.
+- Aggiornamento App rater disegnando una nuova grafica per la finestra di dialogo

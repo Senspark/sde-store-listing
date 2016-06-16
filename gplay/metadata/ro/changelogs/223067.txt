@@ -1,0 +1,7 @@
+[1.3.1] mai, 2016
+- Flux de anunțuri de fixare conform politicii AdMob.
+- Adăugarea de spațiu publicitar pentru banner-ul ca recomandare AdMob.
+- Adăugarea de notificare push.
+- Adăugarea crashlytics.
+- Integrarea bibliotecă nouă.
+- Upgrade app prin tragere la noi mediocritate grafice pentru dialogul

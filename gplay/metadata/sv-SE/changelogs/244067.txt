@@ -1,0 +1,7 @@
+[1.3.1] maj 2016
+- Fastställande annons flöde enligt Admob politik.
+- Lägga annonsutrymme för banner som Admob rekommendation.
+- Lägga push-anmälan.
+- Lägga crashlytics.
+- Att integrera nya biblioteket.
+- Uppgradera app rater genom att dra ny grafik för dialogrutan

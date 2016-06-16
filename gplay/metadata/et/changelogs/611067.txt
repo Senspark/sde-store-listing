@@ -1,0 +1,7 @@
+[1.3.1] mai 2016.
+- Kinnitus reklaami voolata vastavalt Admob poliitika.
+- Lisamine reklaamipinna bänneri Admob soovitust.
+- Lisamine push teatavakstegemisest.
+- Lisamine crashlytics.
+- Uute raamatukogu.
+- Upgrade app hindaja juhtides uus graafika dialoogi
