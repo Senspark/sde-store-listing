@@ -1,7 +1,0 @@
-[1.3.1] Mei, 2016
-- Fixing tangazo kati yake kwa mujibu wa sera Admob.
-- Kuongeza tangazo nafasi kwa ajili ya bendera kama Admob mapendekezo.
-- Kuongeza kushinikiza taarifa.
-- Kuongeza crashlytics.
-- Kuunganisha maktaba mpya.
-- Upgrade programu rater kwa kuchora graphics mpya kwa ajili ya mazungumzo

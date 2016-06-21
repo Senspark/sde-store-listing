@@ -1,7 +1,0 @@
-[1.3.1] maj 2016
-- Fastsættelse annonce flow i henhold til AdMob politik.
-- Tilføjelse annonceplads for banner som AdMob anbefaling.
-- Tilføjelse push anmeldelse.
-- Tilføjelse crashlytics.
-- Integration af ny bibliotek.
-- Opgrader app rater ved at tegne ny grafik for dialogen

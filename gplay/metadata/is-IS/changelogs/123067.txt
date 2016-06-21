@@ -1,7 +1,0 @@
-[1.3.1] May, 2016
-- Lagað auglýsing flæði samkvæmt AdMob stefnu.
-- Bæti auglýsingapláss fyrir merkjum sem AdMob meðmæli.
-- Bæti ýta tilkynningu.
-- Bæti crashlytics.
-- Samþætting nýtt bókasafn.
-- Uppfærsla app Rater því að teikna nýjar myndir fyrir glugganum

@@ -1,7 +1,0 @@
-[1.3.1] maio de 2016
-- Anuncio Fixación de fluxo de acordo coa política de AdMob.
-- Adición de espazo publicitario para a bandeira como AdMob recomendación.
-- Adición de notificación push.
-- Adición de crashlytics.
-- Integrar a nova biblioteca.
-- Actualizar app avaliador deseñando novos gráficos ao diálogo

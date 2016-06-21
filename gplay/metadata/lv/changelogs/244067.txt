@@ -1,7 +1,0 @@
-[1.3.1] May 2016.
-- Noteikšana ad plūsma atbilstoši AdMob politikas.
-- Pievienošana reklāmas vietu uz banera, AdMob ieteikumu.
-- Pievienojot push paziņojumu.
-- Pievienošana crashlytics.
-- Integrēt jaunas bibliotēku.
-- Modernizēt lietotnes izvērtētājs, izstrādājot jaunus grafikas dialoglodziņā

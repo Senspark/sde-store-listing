@@ -1,7 +1,0 @@
-[1.3.1] tháng năm 2016
-- Quảng cáo Sửa chữa chảy theo chính sách Admob.
-- Thêm không gian quảng cáo cho các biểu ngữ như Admob đề nghị.
-- Thêm thông báo đẩy.
-- Thêm crashlytics.
-- Tích hợp thư viện mới.
-- Nâng cấp ứng dụng lên lương bằng cách vẽ đồ họa mới cho hộp thoại
