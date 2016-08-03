@@ -1,7 +1,0 @@
-[1.3.1] máj 2016
-- Stanovenie ad prúdiť v súlade s politikou Admob.
-- Pridanie reklamný priestor pre nápis ako odporúčanie Admob.
-- Pridanie push notifikáciu.
-- Pridávanie crashlytics.
-- Integrácia nových knižnicu.
-- Upgrade app rater tým, že kreslí novú grafiku pre dialóg

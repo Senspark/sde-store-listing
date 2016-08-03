@@ -1,7 +1,0 @@
-[1.3.1] Mei 2016
-- Iklan Memperbaiki mengalir sesuai dengan kebijakan Admob.
-- Menambahkan ruang iklan untuk banner sebagai rekomendasi Admob.
-- Menambahkan push notification.
-- Menambahkan crashlytics.
-- Mengintegrasikan perpustakaan baru.
-- Tingkatkan aplikasi rater dengan menggambar grafis baru untuk dialog
