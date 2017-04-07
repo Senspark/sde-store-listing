@@ -1,0 +1,2 @@
+Cảm ơn bạn đã chơi và dõi bước theo game của chúng tôi. Chúng tôi rất cảm kích nếu bạn viết những dòng nhận xét kích lệ. Đây là phiên bản mới dành cho bạn:
+- Thêm quảng cáo xem video để hồi sinh trước khi game over

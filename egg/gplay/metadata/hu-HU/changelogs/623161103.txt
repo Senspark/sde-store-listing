@@ -1,0 +1,2 @@
+Köszönjük, hogy játszani, és követi a játék. Nagyra értékeljük, ha értékelné minket motivált vélemények. Itt egy új verzióval:
+- Add watch video hirdetés újraéleszteni előtt game over
